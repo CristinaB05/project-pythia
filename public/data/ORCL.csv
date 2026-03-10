@@ -1,4 +1,4 @@
-Date time,Open,Close,High,Low,Volume,Smoothed_close,Predicted,Directionmatch,Diff_pred,Gainloss,Cumulativegainloss,finbert_sentiment_score
+Date Time,Open,Close,High,Low,Volume,Smoothed_Close,Predicted,DirectionMatch,Diff_pred,GainLoss,CumulativeGainLoss,finbert_sentiment_score
 2022-01-03 14:30:00+00:00,87.33,87.9,87.94,85.76,10644400,88.14365089993396,93.98157501220705,,6.082,,,0.8913923501968384
 2022-01-04 14:30:00+00:00,87.9,88.84,89.58,87.73,11959000,87.55544038905772,93.58208465576172,0.0,4.742,-0.94,-0.94,0.0
 2022-01-05 14:30:00+00:00,88.49,86.46,88.6,86.22,11236700,87.15634431772406,93.12570190429688,1.0,6.666,-2.38,-3.32,0.0
